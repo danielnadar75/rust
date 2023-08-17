@@ -1,2 +1,3 @@
 # rust programming!
-## All my learning resources for rust!
+
+All my learning resources for rust!
