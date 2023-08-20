@@ -1,0 +1,7 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./rust-book/generics/Cargo.toml",
+    "./rust-book/traits/Cargo.toml",
+    "./rust-book/lifetimes/Cargo.toml"
+  ]
+}
